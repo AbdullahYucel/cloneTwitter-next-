@@ -1,0 +1,14 @@
+{
+  "/Bookmarks": "pages/Bookmarks.js",
+  "/Explore": "pages/Explore.js",
+  "/Lists": "pages/Lists.js",
+  "/Messages": "pages/Messages.js",
+  "/More": "pages/More.js",
+  "/Notifications": "pages/Notifications.js",
+  "/Profile": "pages/Profile.js",
+  "/_app": "pages/_app.js",
+  "/": "pages/index.js",
+  "/store": "pages/store.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js"
+}

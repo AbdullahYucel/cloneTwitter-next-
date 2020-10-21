@@ -1,0 +1,1 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[8],{W1Ww:function(n,e,s){"use strict";s.r(e);var t=s("q1tI"),w=s.n(t),_=s("CafY"),a=w.a.createElement;e.default=function(){return a(_.a,null,"MessagesPage")}},lhDk:function(n,e,s){(window.__NEXT_P=window.__NEXT_P||[]).push(["/Messages",function(){return s("W1Ww")}])}},[["lhDk",0,1,2,3]]]);

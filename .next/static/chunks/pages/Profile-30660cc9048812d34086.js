@@ -1,0 +1,1 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[11],{R6yu:function(n,e,u){"use strict";u.r(e);var o=u("q1tI"),t=u.n(o),_=u("CafY"),i=t.a.createElement;e.default=function(){return i(_.a,null,"ProfilePage")}},bjH4:function(n,e,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/Profile",function(){return u("R6yu")}])}},[["bjH4",0,1,2,3]]]);

@@ -1,0 +1,1 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[5],{qN0U:function(n,o,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/Bookmarks",function(){return t("wLTV")}])},wLTV:function(n,o,t){"use strict";t.r(o);var w=t("q1tI"),_=t.n(w),a=t("CafY"),e=_.a.createElement;o.default=function(){return e(a.a,null,"BookmarksPage")}}},[["qN0U",0,1,2,3]]]);
